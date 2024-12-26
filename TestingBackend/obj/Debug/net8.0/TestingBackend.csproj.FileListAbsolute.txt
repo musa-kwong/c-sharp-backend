@@ -24,3 +24,10 @@ D:\Coding\Programs\c-sharp-backend\TestingBackend\obj\Debug\net8.0\refint\Testin
 D:\Coding\Programs\c-sharp-backend\TestingBackend\obj\Debug\net8.0\TestingBackend.pdb
 D:\Coding\Programs\c-sharp-backend\TestingBackend\obj\Debug\net8.0\TestingBackend.genruntimeconfig.cache
 D:\Coding\Programs\c-sharp-backend\TestingBackend\obj\Debug\net8.0\ref\TestingBackend.dll
+D:\Coding\Programs\c-sharp-backend\TestingBackend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Coding\Programs\c-sharp-backend\TestingBackend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Coding\Programs\c-sharp-backend\TestingBackend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Coding\Programs\c-sharp-backend\TestingBackend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Coding\Programs\c-sharp-backend\TestingBackend\obj\Debug\net8.0\TestingBackend.csproj.AssemblyReference.cache
+D:\Coding\Programs\c-sharp-backend\TestingBackend\obj\Debug\net8.0\TestingBackend.MvcApplicationPartsAssemblyInfo.cs
+D:\Coding\Programs\c-sharp-backend\TestingBackend\obj\Debug\net8.0\TestingB.4F1E892B.Up2Date
