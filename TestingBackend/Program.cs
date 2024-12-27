@@ -3,7 +3,7 @@ using HardCoded.DB; //for hardcoded database defined in HardCodedDB.cs
 
 var builder = WebApplication.CreateBuilder(args);
     
-// ---------------------- SERVICE -----------------------------
+// -------------------- SERVICE Modules -----------------------
 // Pulls Swagger into the service
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(c =>
@@ -28,12 +28,13 @@ if (app.Environment.IsDevelopment())
 // ----------------------- ROUTES ------------------------------
     
 app.MapGet("/", () => "Hello World!");
-app.MapGet("/data", DataDB.GetAllData); // Testing parameterless
+app.MapGet("/data", DataDB.GetAllData); // When parameterless
 
-//The URL parameters are automatically pulled out for use by the anon function
+//Use lambda functions when parameters needed
+//The URL parameters are automatically pulled out for use
 app.MapGet("/data/{id}", (int id) => DataDB.GetData(id));
 
-//Pulls the data object from request body
+//Pulls the data object from request body too
 app.MapPost("/data", (Data newData) => DataDB.CreateData(newData));
 app.MapPut("/data", (Data newData) => DataDB.UpdateData(newData));
 
