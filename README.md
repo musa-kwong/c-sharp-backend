@@ -3,5 +3,7 @@ This is an exploration into creating a backend using C# (I have no clue what I'm
 
 NEEEEEEEEEEEEEEEEEEEEEEEEOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOWWWWWWWWWWWWWWMMMMM
 
-### current plan
+# current plan
 Run the TestingBackend web service as a middle man between clients and an AWS RDS PSQL instance
+
+![Backend Deployment Diagram](aws-backend-schema.png)
