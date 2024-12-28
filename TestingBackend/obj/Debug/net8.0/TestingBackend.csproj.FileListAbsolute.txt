@@ -31,3 +31,6 @@ D:\Coding\Programs\c-sharp-backend\TestingBackend\bin\Debug\net8.0\Swashbuckle.A
 D:\Coding\Programs\c-sharp-backend\TestingBackend\obj\Debug\net8.0\TestingBackend.csproj.AssemblyReference.cache
 D:\Coding\Programs\c-sharp-backend\TestingBackend\obj\Debug\net8.0\TestingBackend.MvcApplicationPartsAssemblyInfo.cs
 D:\Coding\Programs\c-sharp-backend\TestingBackend\obj\Debug\net8.0\TestingB.4F1E892B.Up2Date
+D:\Coding\Programs\c-sharp-backend\TestingBackend\bin\Debug\net8.0\TestingBackend.staticwebassets.endpoints.json
+D:\Coding\Programs\c-sharp-backend\TestingBackend\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Coding\Programs\c-sharp-backend\TestingBackend\obj\Debug\net8.0\staticwebassets\msbuild.TestingBackend.Microsoft.AspNetCore.StaticWebAssetEndpoints.props

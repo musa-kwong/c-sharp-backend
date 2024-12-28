@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "olOptSjxGXMrpTmgEzaD66RW0haqBbUx/5iOzxupbzs=",
+  "Hash": "h2wMm2JRFl+6zrVSUMB3ES7+vvI9nE7VZgTxyj8zVPU=",
   "Source": "TestingBackend",
   "BasePath": "_content/TestingBackend",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }
