@@ -34,3 +34,8 @@ D:\Coding\Programs\c-sharp-backend\TestingBackend\obj\Debug\net8.0\TestingB.4F1E
 D:\Coding\Programs\c-sharp-backend\TestingBackend\bin\Debug\net8.0\TestingBackend.staticwebassets.endpoints.json
 D:\Coding\Programs\c-sharp-backend\TestingBackend\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 D:\Coding\Programs\c-sharp-backend\TestingBackend\obj\Debug\net8.0\staticwebassets\msbuild.TestingBackend.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Coding\Programs\c-sharp-backend\TestingBackend\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Coding\Programs\c-sharp-backend\TestingBackend\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Coding\Programs\c-sharp-backend\TestingBackend\bin\Debug\net8.0\Npgsql.dll
+D:\Coding\Programs\c-sharp-backend\TestingBackend\bin\Debug\net8.0\DotNetEnv.dll
+D:\Coding\Programs\c-sharp-backend\TestingBackend\bin\Debug\net8.0\Sprache.dll

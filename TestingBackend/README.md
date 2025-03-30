@@ -8,4 +8,15 @@ TestingBackend was initialized with the command: `dotnet new web -o TestingBacke
 
 ### run
 
-Locally: `dotnet run` 
+Locally: 
+
+- Launch PSQL (in wsl)
+`sudo service postgresql start`
+`sudo nano /etc/postgresql/<version>/main/postgresql.conf`
+
+
+
+- Start Web App
+`dotnet run` 
+    Find Host location within ./Properties/launchSettings.json (currently http://localhost:5271[/swagger])
+
