@@ -23,6 +23,7 @@ namespace Local.DB
 
     public class DataDB
     {
+        // Currently: Host=localhost;Port=5432;Username=postgres;Password=<secret :3>;Database=postgres
         private static readonly string _connectionString = Environment.GetEnvironmentVariable("DB_CONNECTION_STRING");
         private static readonly NpgsqlConnection _connection = new NpgsqlConnection(_connectionString);
 
